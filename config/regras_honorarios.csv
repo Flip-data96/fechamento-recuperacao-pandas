@@ -1,0 +1,7 @@
+id_cliente,faixa_min,faixa_max,percentual
+BancoA,0,50000,0.20
+BancoA,50000,200000,0.15
+BancoA,200000,,0.10
+VarejoB,0,100000,0.18
+VarejoB,100000,,0.12
+TelecomC,0,,0.15
